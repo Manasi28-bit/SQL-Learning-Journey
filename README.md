@@ -55,3 +55,8 @@ Started my SQL learning journey by understanding fundamental concepts and perfor
 ---
 
 📅 **Day 1 Completed**
+
+## 📅 Day 2
+- Constraints (PK, FK, Unique, Check, Default)
+- Aggregate Functions (COUNT, SUM, AVG, MAX, MIN)
+- Joins (Inner, Left, Cross)
