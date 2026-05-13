@@ -54,14 +54,4 @@ Started my SQL learning journey by understanding fundamental concepts and perfor
 
 ---
 
-## 🚀 Next Goal (Day 2)
-
-- Learn:
-  - AND, OR, NOT
-  - IN, NOT IN
-  - LIMIT
-  - Aggregate functions (SUM, AVG, MIN, MAX)
-
----
-
 📅 **Day 1 Completed**
