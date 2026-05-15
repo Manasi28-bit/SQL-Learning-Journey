@@ -117,3 +117,11 @@ I’m consistently improving my SQL skills and sharing my progress daily 🚀
 
 Stay tuned for Day 4!
 
+---
+
+Day 4:
+- Practiced SQL Subqueries
+- Solved interview-level questions
+- Covered second highest salary & department analysis
+
+
