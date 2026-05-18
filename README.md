@@ -124,6 +124,8 @@ Day 4:
 - Solved interview-level questions
 - Covered second highest salary & department analysis
 
+---
+
 📅 Day 5 – SQL Learning Journey
 🔹 Topic: Inline Views (Subqueries in FROM Clause)
 📌 What I Learned Today
