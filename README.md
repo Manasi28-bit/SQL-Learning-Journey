@@ -124,4 +124,12 @@ Day 4:
 - Solved interview-level questions
 - Covered second highest salary & department analysis
 
+📅 Day 5 – SQL Learning Journey
+🔹 Topic: Inline Views (Subqueries in FROM Clause)
+📌 What I Learned Today
+
+Today I learned about Inline Views, which are also known as subqueries in the FROM clause.
+
+👉 Instead of writing a query directly on a table, we first create a temporary result using a subquery and then treat it like a table.
+
 
