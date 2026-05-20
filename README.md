@@ -134,4 +134,30 @@ Today I learned about Inline Views, which are also known as subqueries in the FR
 
 👉 Instead of writing a query directly on a table, we first create a temporary result using a subquery and then treat it like a table.
 
+---
+
+📅 Day 6 – SQL Views
+
+📌 Summary
+
+Today I learned about Views in SQL, which are virtual tables created using SQL queries. Views do not store data physically and always show the latest data from the base tables.
+
+---
+
+🔹 What I Practiced
+Creating simple and complex views
+Using JOIN inside views
+Applying filters (WHERE clause)
+Using aggregate functions (AVG, SUM, COUNT)
+Writing subqueries inside views
+Performing operations like CREATE, REPLACE, DROP
+Understanding when views can be updated
+
+---
+
+🔹 Key Takeaways
+Views help in simplifying complex queries
+Useful for data security and abstraction
+Complex views have limitations for updates
+Proper use of joins and subqueries inside views
 
